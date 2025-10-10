@@ -115,8 +115,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Before/after",
-        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "title": "Résultats avant/après",
+        "content": "",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -140,7 +140,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "content": "Longue batterie de 180 minutes pour tenir facilement toute la journée !",
             "show_rating": false,
             "rating": 4
           }
