@@ -144,21 +144,10 @@
             "show_rating": false,
             "rating": 4
           }
-        },
-        "16644243327ba53d2a-1": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
-          }
         }
       },
       "block_order": [
-        "16644243327ba53d2a-0",
-        "16644243327ba53d2a-1"
+        "16644243327ba53d2a-0"
       ],
       "settings": {
         "full_width": true,
@@ -170,6 +159,32 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_WYcmjD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yptD48": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Milaïa ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yptD48"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "hot-spots": {
@@ -395,6 +410,7 @@
     "logo_list_jqNTA6",
     "before-after-image",
     "press",
+    "rich_text_WYcmjD",
     "hot-spots",
     "multiple-images-with-text",
     "featured-product",
