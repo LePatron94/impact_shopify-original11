@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "PROMO D'AUTOMNE 🍁 : -50% sur le deuxième article",
+            "url": ""
+          }
+        },
+        "message_CNx8FP": {
+          "type": "message",
+          "settings": {
+            "text": "SATISFAIT OU REMBOURSE",
+            "url": ""
+          }
+        },
+        "message_JcaiQk": {
+          "type": "message",
+          "settings": {
+            "text": "LIVRAISON OFFERTE",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_CNx8FP",
+        "message_JcaiQk"
       ],
       "settings": {
         "enable_sticky": false,
