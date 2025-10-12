@@ -193,6 +193,7 @@
         "item_TGTRC9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/3b88c569-1821-49b7-870e-8115f8f712d5.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -205,6 +206,7 @@
         "item_jPHc63": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6f33f070-1b8e-45f3-ac57-7ce36677647c.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
