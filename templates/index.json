@@ -374,6 +374,7 @@
       "block_order": [
         "16644243327ba53d2a-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
