@@ -86,6 +86,7 @@
     },
     "before-after-image": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -312,7 +313,7 @@
         "border_color": "#000000",
         "margin_top": 0,
         "margin_bottom": 0,
-        "padding_top": 52,
+        "padding_top": 44,
         "padding_bottom": 0,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5,
@@ -369,6 +370,7 @@
         "item_jPHc63",
         "item_yhFphX"
       ],
+      "custom_css": [],
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -520,11 +522,11 @@
     "image_with_text_overlay_kxjhWx",
     "logo_list_jqNTA6",
     "before-after-image",
-    "press",
     "rich_text_WYcmjD",
     "hot-spots",
     "avis_t8FUk9",
     "multi_column_UBDziJ",
+    "press",
     "featured-product",
     "faq"
   ]
