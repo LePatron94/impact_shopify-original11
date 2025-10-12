@@ -107,35 +107,6 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Longue batterie de 180 minutes pour tenir facilement toute la journée !",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "rich_text_WYcmjD": {
       "type": "rich-text",
       "blocks": {
@@ -331,7 +302,7 @@
           "settings": {
             "image": "shopify://shop_images/3b88c569-1821-49b7-870e-8115f8f712d5.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Lucie",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -344,7 +315,7 @@
           "settings": {
             "image": "shopify://shop_images/6f33f070-1b8e-45f3-ac57-7ce36677647c.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Mélanie",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -355,6 +326,7 @@
         "item_yhFphX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/d02ac780-004e-4df9-95ee-a3848325cbaa.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -383,6 +355,35 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Longue batterie de 180 minutes pour tenir facilement toute la journée !",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "featured-product": {
