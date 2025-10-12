@@ -402,6 +402,12 @@
             "heading_tag": "h2"
           }
         },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
         "liquid_8PraMr": {
           "type": "liquid",
           "settings": {
@@ -411,12 +417,6 @@
         "badges": {
           "type": "badges",
           "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating": {
           "type": "rating",
@@ -461,9 +461,9 @@
       "block_order": [
         "liquid_tNbeQd",
         "title",
+        "price",
         "liquid_8PraMr",
         "badges",
-        "price",
         "rating",
         "liquid_ywWU3L",
         "separator",
