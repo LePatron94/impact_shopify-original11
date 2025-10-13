@@ -502,29 +502,45 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Les pompes portables diminuent-elles la production de lait ?",
+            "content": "<p>Un tire-lait portable ne diminue pas la production de lait, à condition qu'il assure une aspiration forte et efficace. La force d'aspiration est essentielle pour vider complètement le sein et maintenir une production de lait saine.<br/><br/>Les tire-lait portables comme le Momcozy S12 Pro sont conçus avec une puissance d'aspiration élevée pour assurer une extraction efficace du lait, vous permettant ainsi de tirer votre lait en mains libres sans compromettre votre production.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Qu'est-ce qui est le moins douloureux : le tire-lait manuel ou électrique ?",
+            "content": "<p>La douleur lors de l'expression du lait varie d'une mère à l'autre, mais de nombreuses mères allaitantes trouvent les tire-lait électriques moins douloureux grâce à leurs multiples niveaux et modes d'aspiration réglables, permettant de personnaliser le confort et de réduire la douleur aux mamelons. Cependant, une aspiration trop forte, notamment pour les mamelons sensibles ou élastiques, peut néanmoins être source d'inconfort.<br/><br/>Certaines mères préfèrent les tire-lait manuels car ils offrent un meilleur contrôle de l'aspiration et de la vitesse d'expression, ce qui peut contribuer à atténuer la douleur. Cependant, les tire-lait manuels peuvent fatiguer les mains et les poignets en cas d'utilisation prolongée.<br/><br/>Que vous choisissiez un tire-lait manuel ou électrique, choisir la bonne taille de bride et régler correctement le niveau d'aspiration est essentiel pour réduire la douleur, prévenir les douleurs aux mamelons et garantir une expression confortable.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Comment choisir un tire-lait électrique ?",
+            "content": "<p>Choisir le bon tire-lait électrique peut faire toute la différence pour les mamans actives. Voici quelques facteurs clés à prendre en compte :<br/><br/>Portabilité : Si vous tirez votre lait en déplacement ou au travail, choisissez un tire-lait léger et portable, comme le Momcozy M6, adapté à votre style de vie.<br/><br/>Puissance d'aspiration : Recherchez un tire-lait avec une aspiration puissante et réglable pour exprimer efficacement votre lait et maintenir une production de lait saine.<br/><br/>Confort : Le bon ajustement est important : essayez différents tire-laits et brides pour trouver celui qui vous convient le mieux et qui prévient les douleurs ou l'inconfort des mamelons.<br/><br/>Caractéristiques : Pensez à des fonctionnalités utiles comme la double expression pour plus d'efficacité, un fonctionnement silencieux pour plus de discrétion, des batteries rechargeables pour plus de commodité et un contrôle via une application pour des séances d'expression personnalisées.<br/><br/>Choisir le tire-lait électrique adapté à vos besoins contribue à rendre l'allaitement plus facile, plus confortable et plus efficace.</p>"
+          }
+        },
+        "item_wj8beM": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de minutes dois-je utiliser un tire-lait électrique ?",
+            "content": "<p>Pour la plupart des mamans, il est recommandé de commencer par 15 à 20 minutes par séance d'expression, puis d'ajuster progressivement en fonction de votre production de lait et de votre confort. Chaque maman a des besoins différents ; écoutez donc votre corps et tirez votre lait selon vos préférences.<br/><br/>Votre production de lait, le rythme des tétées de votre bébé et votre confort jouent tous un rôle. Arrêtez d'exprimer votre lait si vous ressentez une gêne ou si vos seins sont vides afin d'éviter une sur-expression, source de douleurs ou d'irritations. Une utilisation correcte de votre tire-lait électrique contribue à maintenir une production de lait saine et à un allaitement confortable.</p>"
+          }
+        },
+        "item_PGXkFX": {
+          "type": "item",
+          "settings": {
+            "title": "Est-il judicieux d’utiliser des tire-lait électriques ?",
+            "content": "<p>Oui ! Les tire-lait électriques sont un excellent choix pour les mères qui allaitent et recherchent praticité et efficacité. Ils peuvent contribuer à maintenir ou à augmenter la production de lait, notamment pour les mères qui travaillent ou celles qui ont des difficultés à produire du lait. Choisir le bon tire-lait électrique signifie en choisir un qui offre une forte puissance d'aspiration, un fonctionnement silencieux et des fonctionnalités faciles à utiliser. Un tire-lait électrique confortable et efficace peut rendre votre allaitement plus fluide et plus réussi.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_wj8beM",
+        "item_PGXkFX"
       ],
       "settings": {
         "full_width": false,
