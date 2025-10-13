@@ -499,11 +499,11 @@
     "faq": {
       "type": "faq",
       "blocks": {
-        "166442457738b23caf-0": {
+        "item_PGXkFX": {
           "type": "item",
           "settings": {
-            "title": "Les pompes portables diminuent-elles la production de lait ?",
-            "content": "<p>Un tire-lait portable ne diminue pas la production de lait, à condition qu'il assure une aspiration forte et efficace. La force d'aspiration est essentielle pour vider complètement le sein et maintenir une production de lait saine.<br/><br/>Les tire-lait portables comme le Momcozy S12 Pro sont conçus avec une puissance d'aspiration élevée pour assurer une extraction efficace du lait, vous permettant ainsi de tirer votre lait en mains libres sans compromettre votre production.</p>"
+            "title": "Est-il judicieux d’utiliser des tire-lait électriques ?",
+            "content": "<p>Oui ! Les tire-lait électriques sont un excellent choix pour les mères qui allaitent et recherchent praticité et efficacité. Ils peuvent contribuer à maintenir ou à augmenter la production de lait, notamment pour les mères qui travaillent ou celles qui ont des difficultés à produire du lait. Choisir le bon tire-lait électrique signifie en choisir un qui offre une forte puissance d'aspiration, un fonctionnement silencieux et des fonctionnalités faciles à utiliser. Un tire-lait électrique confortable et efficace peut rendre votre allaitement plus fluide et plus réussi.</p>"
           }
         },
         "166442457738b23caf-1": {
@@ -520,27 +520,27 @@
             "content": "<p>Choisir le bon tire-lait électrique peut faire toute la différence pour les mamans actives. Voici quelques facteurs clés à prendre en compte :<br/><br/>Portabilité : Si vous tirez votre lait en déplacement ou au travail, choisissez un tire-lait léger et portable, comme le Momcozy M6, adapté à votre style de vie.<br/><br/>Puissance d'aspiration : Recherchez un tire-lait avec une aspiration puissante et réglable pour exprimer efficacement votre lait et maintenir une production de lait saine.<br/><br/>Confort : Le bon ajustement est important : essayez différents tire-laits et brides pour trouver celui qui vous convient le mieux et qui prévient les douleurs ou l'inconfort des mamelons.<br/><br/>Caractéristiques : Pensez à des fonctionnalités utiles comme la double expression pour plus d'efficacité, un fonctionnement silencieux pour plus de discrétion, des batteries rechargeables pour plus de commodité et un contrôle via une application pour des séances d'expression personnalisées.<br/><br/>Choisir le tire-lait électrique adapté à vos besoins contribue à rendre l'allaitement plus facile, plus confortable et plus efficace.</p>"
           }
         },
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Les pompes portables diminuent-elles la production de lait ?",
+            "content": "<p>Un tire-lait portable ne diminue pas la production de lait, à condition qu'il assure une aspiration forte et efficace. La force d'aspiration est essentielle pour vider complètement le sein et maintenir une production de lait saine.<br/><br/>Les tire-lait portables comme le Momcozy S12 Pro sont conçus avec une puissance d'aspiration élevée pour assurer une extraction efficace du lait, vous permettant ainsi de tirer votre lait en mains libres sans compromettre votre production.</p>"
+          }
+        },
         "item_wj8beM": {
           "type": "item",
           "settings": {
             "title": "Combien de minutes dois-je utiliser un tire-lait électrique ?",
             "content": "<p>Pour la plupart des mamans, il est recommandé de commencer par 15 à 20 minutes par séance d'expression, puis d'ajuster progressivement en fonction de votre production de lait et de votre confort. Chaque maman a des besoins différents ; écoutez donc votre corps et tirez votre lait selon vos préférences.<br/><br/>Votre production de lait, le rythme des tétées de votre bébé et votre confort jouent tous un rôle. Arrêtez d'exprimer votre lait si vous ressentez une gêne ou si vos seins sont vides afin d'éviter une sur-expression, source de douleurs ou d'irritations. Une utilisation correcte de votre tire-lait électrique contribue à maintenir une production de lait saine et à un allaitement confortable.</p>"
           }
-        },
-        "item_PGXkFX": {
-          "type": "item",
-          "settings": {
-            "title": "Est-il judicieux d’utiliser des tire-lait électriques ?",
-            "content": "<p>Oui ! Les tire-lait électriques sont un excellent choix pour les mères qui allaitent et recherchent praticité et efficacité. Ils peuvent contribuer à maintenir ou à augmenter la production de lait, notamment pour les mères qui travaillent ou celles qui ont des difficultés à produire du lait. Choisir le bon tire-lait électrique signifie en choisir un qui offre une forte puissance d'aspiration, un fonctionnement silencieux et des fonctionnalités faciles à utiliser. Un tire-lait électrique confortable et efficace peut rendre votre allaitement plus fluide et plus réussi.</p>"
-          }
         }
       },
       "block_order": [
-        "166442457738b23caf-0",
+        "item_PGXkFX",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_wj8beM",
-        "item_PGXkFX"
+        "166442457738b23caf-0",
+        "item_wj8beM"
       ],
       "settings": {
         "full_width": false,
