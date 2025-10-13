@@ -160,6 +160,48 @@
         "hot_spot_content_blur_radius": 3
       }
     },
+    "rich_text_tLMXCc": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ijRmE6": {
+          "type": "heading",
+          "settings": {
+            "text": "Un appareil pratique qui vous rend autonome",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ijRmE6"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_kXXhyf": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/67bf63f1de166f67b320bb96d0297a52_7663eb90-bbec-419c-adeb-08439069418b.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 3
+      }
+    },
     "avis_t8FUk9": {
       "type": "Avis",
       "name": "SS - Testimonial #8",
@@ -571,6 +613,8 @@
     "before-after-image",
     "rich_text_WYcmjD",
     "hot-spots",
+    "rich_text_tLMXCc",
+    "image_with_text_overlay_kXXhyf",
     "avis_t8FUk9",
     "multi_column_UBDziJ",
     "press",
