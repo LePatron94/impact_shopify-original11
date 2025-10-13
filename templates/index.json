@@ -611,8 +611,8 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Vous avez une question ?",
+        "subheading": "Vous avez une question ?",
+        "title": "Contactez-nous :",
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
