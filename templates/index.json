@@ -340,12 +340,12 @@
     "multi_column_UBDziJ": {
       "type": "multi-column",
       "blocks": {
-        "item_TGTRC9": {
+        "item_jPHc63": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3b88c569-1821-49b7-870e-8115f8f712d5.webp",
+            "image": "shopify://shop_images/6f33f070-1b8e-45f3-ac57-7ce36677647c.webp",
             "column_size": "3",
-            "title": "Lucie",
+            "title": "Mélanie",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -353,12 +353,12 @@
             "link_style": "link"
           }
         },
-        "item_jPHc63": {
+        "item_TGTRC9": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/6f33f070-1b8e-45f3-ac57-7ce36677647c.webp",
+            "image": "shopify://shop_images/3b88c569-1821-49b7-870e-8115f8f712d5.webp",
             "column_size": "3",
-            "title": "Mélanie",
+            "title": "Lucie",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
@@ -381,8 +381,8 @@
         }
       },
       "block_order": [
-        "item_TGTRC9",
         "item_jPHc63",
+        "item_TGTRC9",
         "item_yhFphX"
       ],
       "custom_css": [],
@@ -605,6 +605,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_eqdhPT": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Vous avez une question ?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -619,6 +640,7 @@
     "multi_column_UBDziJ",
     "press",
     "featured-product",
-    "faq"
+    "faq",
+    "contact_eqdhPT"
   ]
 }
