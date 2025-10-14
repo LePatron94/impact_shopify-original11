@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BANNER_PREMIERE.png",
+        "image": "shopify://shop_images/One_Full_Charge_All-day_Use.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
