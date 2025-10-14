@@ -378,12 +378,40 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_VfyM76": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/TESTIMONIAL_2_MUMAIA.png",
+            "column_size": "3",
+            "title": "Leslie",
+            "heading_tag": "h4",
+            "content": "<p>J'étais sur le point d'arrêter de tirer mon lait, car j'avais toujours les canaux lactifères bouchés et la douleur était parfois insupportable. Depuis que j'ai commandé <strong>plus de douleur</strong>s et <strong>plus de fuite !</strong></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_U6V8zX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/mumaiafqjm.png",
+            "column_size": "3",
+            "title": "Julie",
+            "heading_tag": "h4",
+            "content": "<p>J'étais tellement impatiente de commander ce tire-lait <strong>avec sa garantie</strong>. Une pièce s'est cassée et je vais contacter le service client. Cependant, <strong>le tire-lait est génial !</strong> J'adore pouvoir personnaliser les réglages. C'est un tire-lait portable tellement <strong>pratique et utile</strong>. Je l'ai acheté en mai et j'ai accouché en juillet.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_TGTRC9",
         "item_jPHc63",
-        "item_yhFphX"
+        "item_yhFphX",
+        "item_VfyM76",
+        "item_U6V8zX"
       ],
       "custom_css": [],
       "name": "Multi-column",
