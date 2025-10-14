@@ -340,6 +340,19 @@
     "multi_column_UBDziJ": {
       "type": "multi-column",
       "blocks": {
+        "item_TGTRC9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/mumaia_testimonial.png",
+            "column_size": "3",
+            "title": "Lucie",
+            "heading_tag": "h4",
+            "content": "<p>Produit conforme à la description et effectivement, ça vaut le coup de l’acheter et <strong>très bon rapport-qualité prix comparé aux concurrents</strong>, <strong>on gagne clairement en confort lors du tirage</strong>.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_jPHc63": {
           "type": "item",
           "settings": {
@@ -348,19 +361,6 @@
             "title": "Mélanie",
             "heading_tag": "h4",
             "content": "<p>Achat <strong>pour diminuer la charge mentale du nettoyage du tire-lait.</strong> Il est beaucoup <strong>moins cher</strong> que chez le concurrent !<br/>Le fait d'avoir un ensemble supplémentaire m'a permis de <strong>vivre plus paisiblement </strong>mon tire-allaitement.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_TGTRC9": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3b88c569-1821-49b7-870e-8115f8f712d5.webp",
-            "column_size": "3",
-            "title": "Lucie",
-            "heading_tag": "h4",
-            "content": "<p>Produit conforme à la description et effectivement, ça vaut le coup de l’acheter et <strong>très bon rapport-qualité prix comparé aux concurrents</strong>, <strong>on gagne clairement en confort lors du tirage</strong>.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -381,8 +381,8 @@
         }
       },
       "block_order": [
-        "item_jPHc63",
         "item_TGTRC9",
+        "item_jPHc63",
         "item_yhFphX"
       ],
       "custom_css": [],
