@@ -71,7 +71,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Vu sur :",
+        "title": "Seen in :",
         "content": "",
         "text_alignment": "center",
         "items_per_row": 5,
@@ -114,7 +114,7 @@
         "heading_yptD48": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir notre Tire-Lait ?",
+            "text": "Why Choose Curvelux ?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -181,7 +181,7 @@
       "type": "Avis",
       "name": "SS - Testimonial #8",
       "settings": {
-        "heading": "Nos mamans en parlent le mieux",
+        "heading": "Our customers say it best",
         "heading_custom": true,
         "heading_font": "system_ui_n4",
         "heading_size": 52,
@@ -203,7 +203,7 @@
         "stars_size": 28,
         "stars_size_mobile": 24,
         "stars_align": "center",
-        "text": "<p>basé sur +<strong>1 0,000</strong> avis</p>",
+        "text": "<p>Based on +<strong>1 0,000</strong> review</p>",
         "text_right_image": "shopify://shop_images/Trustpilot_logo_1_1.png",
         "text_custom": false,
         "text_font": "josefin_sans_n4",
