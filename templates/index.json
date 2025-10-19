@@ -114,7 +114,7 @@
           "type": "heading",
           "settings": {
             "text": "Why Choose Curvelux ?",
-            "heading_tag": "h3",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -137,8 +137,7 @@
       "type": "hot-spots",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/gfshosu.png",
-        "mobile_image": "shopify://shop_images/gfshosu.png",
+        "image": "shopify://shop_images/Curvelux_benefices.png",
         "title": "",
         "content": "",
         "button_text": "",
