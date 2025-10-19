@@ -551,22 +551,6 @@
     },
     "press_4bDPp6": {
       "type": "press",
-      "blocks": {
-        "quote_kcG8xc": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/csm_Banniere_Site_Octobre_rose_1920x411_d952c1f1e2.jpg",
-            "logo_width": 350,
-            "author": "",
-            "content": "1€ reversé à chaque commande pour l'OCTOBRE ROSE 🎀",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_kcG8xc"
-      ],
       "name": "Press",
       "settings": {
         "full_width": true,
