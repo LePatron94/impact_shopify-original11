@@ -83,28 +83,30 @@
         "logo_item_border": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "disabled": true,
+    "rich_text_F8KCAi": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_axYRb8": {
+          "type": "heading",
+          "settings": {
+            "text": "Result before/after",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_axYRb8"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Résultats avant/après",
-        "content": "",
-        "before_image": "shopify://shop_images/invisible-2.webp",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     },
     "rich_text_WYcmjD": {
@@ -131,6 +133,22 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "image_with_text_overlay_PYMT6h": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/CosmoLED_-_2025-08-04T035321.016_1.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "hot-spots": {
@@ -622,7 +640,8 @@
   "order": [
     "image_with_text_overlay_kxjhWx",
     "logo_list_jqNTA6",
-    "before-after-image",
+    "rich_text_F8KCAi",
+    "image_with_text_overlay_PYMT6h",
     "rich_text_WYcmjD",
     "hot-spots",
     "image_with_text_overlay_kXXhyf",
