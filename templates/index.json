@@ -175,6 +175,47 @@
         "overlay_opacity": 3
       }
     },
+    "rich_text_zYeWVf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4Lq9jw": {
+          "type": "heading",
+          "settings": {
+            "text": "3D compression technology that accelerates fat loss and reduces cellulite",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_4Lq9jw"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_nDUtEf": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/9705dc37f0af454191ffe2060ab4f55b.HD-1080p-7.2Mbps-53338198 (1).mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "avis_t8FUk9": {
       "type": "Avis",
       "name": "SS - Testimonial #8",
@@ -585,6 +626,8 @@
     "rich_text_WYcmjD",
     "hot-spots",
     "image_with_text_overlay_kXXhyf",
+    "rich_text_zYeWVf",
+    "video_nDUtEf",
     "avis_t8FUk9",
     "multi_column_UBDziJ",
     "press",
