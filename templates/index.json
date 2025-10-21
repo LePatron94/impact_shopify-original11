@@ -454,6 +454,7 @@
         "item_zcRtnN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6_2.png",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
