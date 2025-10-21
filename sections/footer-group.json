@@ -93,12 +93,13 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez vous a notre newsletter pour profiter des offres et nouveautés :",
+            "title": "Subscribe to our newsletter to take advantage of offers and news :",
             "content": ""
           }
         },
         "links": {
           "type": "links",
+          "disabled": true,
           "settings": {
             "menu": "footer",
             "show_menu_title": true,
