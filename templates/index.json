@@ -370,6 +370,123 @@
         "lazy": true
       }
     },
+    "multi_column_hj3LFt": {
+      "type": "multi-column",
+      "blocks": {
+        "item_TyXCtw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GMYXTQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7_2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_npV6Ka": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/9.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pYDER3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/10_2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Gcir4E": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/11_2.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wJEPwB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/8.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zcRtnN": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_TyXCtw",
+        "item_GMYXTQ",
+        "item_npV6Ka",
+        "item_pYDER3",
+        "item_Gcir4E",
+        "item_wJEPwB",
+        "item_zcRtnN"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multi_column_UBDziJ": {
       "type": "multi-column",
       "custom_css": [],
@@ -665,6 +782,7 @@
     "rich_text_zYeWVf",
     "video_nDUtEf",
     "avis_t8FUk9",
+    "multi_column_hj3LFt",
     "multi_column_UBDziJ",
     "press",
     "featured-product",
