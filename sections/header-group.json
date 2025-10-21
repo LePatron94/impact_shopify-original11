@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_MqncKW": {
+          "type": "message",
+          "settings": {
+            "text": "60-day money-back guarantee",
+            "url": ""
+          }
+        },
         "message_HVYpPY": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "4.7/5 Based on +10,000 reviews on Trustpilot",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_MqncKW",
         "message_HVYpPY"
       ],
       "settings": {
