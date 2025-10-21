@@ -755,8 +755,8 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Vous avez une question ?",
-        "title": "Contactez-nous :",
+        "subheading": "You have a question ?",
+        "title": "Contact Us",
         "content": "",
         "text_position": "center",
         "contact_form_size": "large",
