@@ -239,7 +239,7 @@
       "type": "Avis",
       "name": "SS - Testimonial #8",
       "settings": {
-        "heading": "Our customers say it best",
+        "heading": "Our customers say it",
         "heading_custom": true,
         "heading_font": "system_ui_n4",
         "heading_size": 52,
