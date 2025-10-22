@@ -488,6 +488,22 @@
         "text_color": ""
       }
     },
+    "image_with_text_overlay_tcVmeg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/conservation-terre-developpement-eco-ecologique-respectueux-environnement-globe-graphique_870512-817.avif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 6
+      }
+    },
     "multi_column_UBDziJ": {
       "type": "multi-column",
       "custom_css": [],
@@ -513,7 +529,7 @@
           "settings": {
             "logo_width": 100,
             "author": "",
-            "content": "Longue batterie de 180 minutes pour tenir facilement toute la journée !",
+            "content": "Let us not degrade the earth more than we already have...",
             "show_rating": false,
             "rating": 4
           }
@@ -522,7 +538,6 @@
       "block_order": [
         "16644243327ba53d2a-0"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "content_size": "medium",
@@ -533,6 +548,29 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "rich_text_BJxbqg": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_z3g7V4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Each piece</strong> is made <strong>with sustainable materials</strong>, and every factory is extensively vetted.</p><p>Through stringent labeling and flawless tracking, we ensure ethical and transparent style. To us, superiority means fashion that ignites passion and admiration.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_z3g7V4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured-product": {
@@ -786,6 +824,8 @@
     "multi_column_hj3LFt",
     "multi_column_UBDziJ",
     "press",
+    "image_with_text_overlay_tcVmeg",
+    "rich_text_BJxbqg",
     "featured-product",
     "press_4bDPp6",
     "faq",
