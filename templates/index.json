@@ -118,7 +118,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/11_2.png",
+        "image": "shopify://shop_images/5_2.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -373,19 +373,6 @@
     "multi_column_hj3LFt": {
       "type": "multi-column",
       "blocks": {
-        "item_TyXCtw": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_2.png",
-            "column_size": "3",
-            "title": "Karen M.",
-            "heading_tag": "h4",
-            "content": "<p>“I tried everything to get rid of cellulite, but the 3D leggings were the only thing that worked. Two hours a day and my results are impressive. The only product that truly helped me!”</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_GMYXTQ": {
           "type": "item",
           "settings": {
@@ -394,6 +381,19 @@
             "title": "Caroline G.",
             "heading_tag": "h4",
             "content": "<p>“I didn’t dare wear shorts or go to the beach anymore. After 2 months with the Ceralia 3D leggings, wearing them 2 hours a day, my skin is smoother and I finally regained my confidence.”</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_TyXCtw": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_2.png",
+            "column_size": "3",
+            "title": "Karen M.",
+            "heading_tag": "h4",
+            "content": "<p>“I tried everything to get rid of cellulite, but the 3D leggings were the only thing that worked. Two hours a day and my results are impressive. The only product that truly helped me!”</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -466,8 +466,8 @@
         }
       },
       "block_order": [
-        "item_TyXCtw",
         "item_GMYXTQ",
+        "item_TyXCtw",
         "item_npV6Ka",
         "item_pYDER3",
         "item_Gcir4E",
