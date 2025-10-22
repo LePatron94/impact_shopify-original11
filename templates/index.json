@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/3_fdc38db0-54ba-4bee-ac24-577b45a8e64a.png",
+        "image": "shopify://shop_images/BANNER_OK.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -488,22 +488,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_tcVmeg": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/conservation-terre-developpement-eco-ecologique-respectueux-environnement-globe-graphique_870512-817.avif",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 6
-      }
-    },
     "multi_column_UBDziJ": {
       "type": "multi-column",
       "custom_css": [],
@@ -548,6 +532,22 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_tcVmeg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/conservation-terre-developpement-eco-ecologique-respectueux-environnement-globe-graphique_870512-817.avif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 6
       }
     },
     "rich_text_BJxbqg": {
