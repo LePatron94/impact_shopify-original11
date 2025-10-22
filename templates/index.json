@@ -235,6 +235,35 @@
         "overlay_opacity": 0
       }
     },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Let us not degrade the earth more than we already have...",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "avis_t8FUk9": {
       "type": "Avis",
       "name": "SS - Testimonial #8",
@@ -503,35 +532,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Let us not degrade the earth more than we already have...",
-            "show_rating": false,
-            "rating": 4
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "image_with_text_overlay_tcVmeg": {
@@ -862,12 +862,12 @@
     "image_with_text_overlay_kXXhyf",
     "rich_text_zYeWVf",
     "video_nDUtEf",
-    "avis_t8FUk9",
-    "multi_column_hj3LFt",
-    "multi_column_UBDziJ",
     "press",
     "image_with_text_overlay_tcVmeg",
     "rich_text_BJxbqg",
+    "avis_t8FUk9",
+    "multi_column_hj3LFt",
+    "multi_column_UBDziJ",
     "featured-product",
     "press_4bDPp6",
     "rich_text_VNMDL4",
