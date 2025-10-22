@@ -712,6 +712,48 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_VNMDL4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ntYYhV": {
+          "type": "heading",
+          "settings": {
+            "text": "What is my size ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ntYYhV"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_QHFFxR": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/12.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -828,6 +870,8 @@
     "rich_text_BJxbqg",
     "featured-product",
     "press_4bDPp6",
+    "rich_text_VNMDL4",
+    "image_with_text_overlay_QHFFxR",
     "faq",
     "contact_eqdhPT"
   ]
