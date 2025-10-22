@@ -240,6 +240,7 @@
       "blocks": {
         "16644243327ba53d2a-0": {
           "type": "quote",
+          "disabled": true,
           "settings": {
             "logo_width": 100,
             "author": "",
@@ -266,6 +267,7 @@
     },
     "image_with_text_overlay_tcVmeg": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -285,6 +287,7 @@
       "blocks": {
         "richtext_z3g7V4": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
             "content": "<p><strong>Each piece</strong> is made <strong>with sustainable materials</strong>, and every factory is extensively vetted.</p><p>To us, superiority means fashion that ignites passion and admiration.</p>"
           }
