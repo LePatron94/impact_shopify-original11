@@ -264,6 +264,45 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_tcVmeg": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/conservation-terre-developpement-eco-ecologique-respectueux-environnement-globe-graphique_870512-817.avif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 6
+      }
+    },
+    "rich_text_BJxbqg": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_z3g7V4": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Each piece</strong> is made <strong>with sustainable materials</strong>, and every factory is extensively vetted.</p><p>To us, superiority means fashion that ignites passion and admiration.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_z3g7V4"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "avis_t8FUk9": {
       "type": "Avis",
       "name": "SS - Testimonial #8",
@@ -534,45 +573,6 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_tcVmeg": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/conservation-terre-developpement-eco-ecologique-respectueux-environnement-globe-graphique_870512-817.avif",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 6
-      }
-    },
-    "rich_text_BJxbqg": {
-      "type": "rich-text",
-      "blocks": {
-        "richtext_z3g7V4": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><strong>Each piece</strong> is made <strong>with sustainable materials</strong>, and every factory is extensively vetted.</p><p>To us, superiority means fashion that ignites passion and admiration.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "richtext_z3g7V4"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -695,6 +695,146 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "multi_column_HhtgxP": {
+      "type": "multi-column",
+      "blocks": {
+        "item_QN97ji": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/3df2f3b8-8c7b-4c64-8c8d-0984bfeaadfd.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eGn7PD": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/8fe9ad4d-3afc-428c-a5f1-56d8f40c3b76.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dXTUMH": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/2e001548-7849-4d67-8227-d1820e37cde7.mp4",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_QN97ji",
+        "item_eGn7PD",
+        "item_dXTUMH"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "More than 10,000 womens are already using it, why not you?",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_RhkjAp": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_7EGkDx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/16_95d7d24e-3005-4586-a7c2-137859ff5378_1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_PFBJph": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/15_bb431d12-f061-4ada-a414-9c3408703be2_1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_qiaALd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_0489ce9e-4ddd-4ee1-97bd-61c7f2be0434_1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_tLpUJq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/4_5f7c634e-bc67-40dc-81d0-b8b4a63936de_1.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_7EGkDx",
+        "item_PFBJph",
+        "item_qiaALd",
+        "item_tLpUJq"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "small",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "press_4bDPp6": {
@@ -869,6 +1009,8 @@
     "multi_column_hj3LFt",
     "multi_column_UBDziJ",
     "featured-product",
+    "multi_column_HhtgxP",
+    "image_link_blocks_RhkjAp",
     "press_4bDPp6",
     "rich_text_VNMDL4",
     "image_with_text_overlay_QHFFxR",
