@@ -133,7 +133,7 @@
           "type": "heading",
           "settings": {
             "text": "Why Choose Curvelux ?",
-            "heading_tag": "h1",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
