@@ -14,31 +14,31 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_MqncKW": {
-          "type": "message",
-          "settings": {
-            "text": "60-day money-back guarantee",
-            "url": ""
-          }
-        },
         "message_HVYpPY": {
           "type": "message",
           "settings": {
             "text": "4.7/5 Based on +10,000 reviews on Trustpilot",
             "url": ""
           }
+        },
+        "message_MqncKW": {
+          "type": "message",
+          "settings": {
+            "text": "60-day money-back guarantee",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message_MqncKW",
-        "message_HVYpPY"
+        "message_HVYpPY",
+        "message_MqncKW"
       ],
       "settings": {
         "enable_sticky": false,
         "autoplay": false,
         "cycle_speed": 6,
         "text_size": "text-xs",
-        "navigation_mode": "arrows",
+        "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#faaec1",
         "background_gradient": "",
