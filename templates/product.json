@@ -17,7 +17,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/BANNER_PREMIERE.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -31,7 +30,7 @@
         "logo_xtRppB": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_3.png",
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -39,7 +38,7 @@
         "logo_UBJGRd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_1.svg",
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -47,7 +46,7 @@
         "logo_H9CPNj": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Capture-decran-2024-11-04-a-14.39.17.png",
+            "logo": "shopify://shop_images/Vogue.png",
             "logo_width": 120,
             "link": ""
           }
@@ -55,7 +54,7 @@
         "logo_RFpyTT": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/logo-seo_1_2_1.png",
+            "logo": "shopify://shop_images/images_9809c3a1-22f3-4168-bc85-c8b4d0a0f761.png",
             "logo_width": 120,
             "link": ""
           }
